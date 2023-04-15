@@ -16,6 +16,27 @@
  <img width-"38" height="38"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
 </p>
+ 
+ <h3 align="center">Acompanhe minhas redes sociais:</h3>
+<p align="center">
+	<a href="https://twitter.com/DaLyan22" target="_blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+			alt="eisquezofrenia"
+			height="30"
+			width="40"
+	/></a>
+	<a href="https://www.instagram.com/gabrielsoaresss_/" target="_blank"
+		><img
+			align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+			alt="brianmendesvnx"
+			height="30"
+			width="40"
+	/></a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalyan22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
