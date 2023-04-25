@@ -1,5 +1,5 @@
 <h1  align="center"> Hi, I'm Gabriel </12>
-<h3  align="center">Welcome to my Git </h3><br>
+<h3  align="center">and... Welcome to my Git </h3><br>
 
 <p>
 - 🔭 Web Developer <br>
