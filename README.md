@@ -6,7 +6,7 @@
 - 🌱 Fun Fact:I forget all the commands of the langs that I learn 1 week later :) <br>
  - 👨‍💻 Estudando <strong>React, PHP, SQL e Bootstrap</strong>.
 </p>
-<br>
+
 <div align="center">
 <h3 align="center"> Technologies I use the most: </h3>
 <p align="center">
