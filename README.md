@@ -1,14 +1,14 @@
-<h1 align="center"> Olá, eu sou o Gabriel </12>
-<h3 align="center">Sejam bem vindos ao meu Git </h3><br>
+<h1  align="center"> Hi, I'm Gabriel </12>
+<h3  align="center">Welcome to my Git </h3><br>
 
 <p>
 - 🔭 Web Developer <br>
-- 🌱 Curiosidade: Eu esqueço todos os comandos das langs que eu aprendo 1 semana depois:) <br>
- - 👨‍💻 Estudando <strong>React, Angular, SQL e JS</strong>.
+- 🌱 Fun Fact:I forget all the commands of the langs that I learn 1 week later :) <br>
+ - 👨‍💻 Estudando <strong>React, PHP, SQL e Bootstrap</strong>.
 </p>
 <br>
 <div align="center">
-<h3 align="center"> Tecnologias que eu mais uso: </h3>
+<h3 align="center"> Technologies I use the most: </h3>
 <p align="center">
 <img  width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img widt="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,7 +17,7 @@
           
 </p>
  
- <h3 align="center">Acompanhe minhas redes sociais:</h3>
+ <h3 align="center">Follow my social media:</h3>
 <p align="center">
 	<a href="https://twitter.com/DaLyan22" target="_blank"
 		><img
