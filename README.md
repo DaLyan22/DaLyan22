@@ -4,7 +4,7 @@
 <p>
 - 🔭 Web Developer <br>
 - 🌱 Fun Fact:I forget all the commands of the langs that I learn 1 week later :) <br>
- - 👨‍💻 Estudando <strong>React, PHP, SQL e Bootstrap</strong>.
+ - 👨‍💻 Learning <strong>React, PHP, SQL e Bootstrap</strong>.
 </p>
 
 <div align="center">
