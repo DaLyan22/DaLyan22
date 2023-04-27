@@ -38,7 +38,13 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalyan22&layout=compact)](https://github.com/DaLyan22/DaLyan22)
+<p align="center">
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=DaLyan22&show_icons=true&theme=synthwave&title_color=c900cc&text_color=ffffff&bg_color=000000&locale=en&layout=compact"
+		alt="DaLyan22" />
+</p>
+<br>
  </div>
 
 
