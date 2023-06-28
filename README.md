@@ -2,9 +2,9 @@
 <h3  align="center">Seja bem vindo ao meu Git </h3><br>
 
 <p>
-- 🔭 Web Developer (estudando para ser) FullStack <br>
+- 🔭 Web Developer FullStack com foco no Back-end. <br>
 - 🌱 Curiosidade: Esqueço todos os comandos das langs que aprendo 1 semana depois :) <br>
-- 👨‍💻 EStudando <strong>React, TS, JS e Bootstrap</strong>.
+- 👨‍💻 EStudando <strong>Laravel e PHP</strong>.
 </p>
 
 <div align="center">
