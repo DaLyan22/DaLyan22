@@ -4,7 +4,7 @@
 <p>
 - 🔭 Web Developer FullStack com foco no Back-end. <br>
 - 🌱 Curiosidade: Esqueço todos os comandos das langs que aprendo 1 semana depois :) <br>
-- 👨‍💻 EStudando <strong>Laravel e PHP</strong>.
+- 👨‍💻 Etudando <strong>Laravel e PHP</strong>.
 </p>
 
 <div align="center">
