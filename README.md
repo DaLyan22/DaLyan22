@@ -1,14 +1,14 @@
-<h1  align="center"> Olá, eu sou o Gabriel </12>
-<h3  align="center">Seja bem vindo ao meu Git </h3><br>
+<h1  align="center"> Hi, I'm Gabriel </12>
+<h3  align="center">and...Welcome to my git </h3><br>
 
 <p>
-- 🔭 Web Developer FullStack com foco no Back-end. <br>
-- 🌱 Curiosidade: Esqueço todos os comandos das langs que aprendo 1 semana depois :) <br>
-- 👨‍💻 Estudando <strong>NodeJS, TypeScript, PHP e React</strong>.
+- 🔭 FullStack Web Developer focused on Back-end. <br>
+- 🌱 Fun fact: I forget all the lang commands I learn 1 week later :) <br>
+- 👨‍💻 Studying <strong>NodeJS, TypeScript, PHP e React</strong>.
 </p>
 
 <div align="center">
-<h3 align="center"> Tecnologias que eu mais uso: </h3>
+<h3 align="center"> Technologies I use most: </h3>
 <p align="center">
 <img widt="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
 <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -24,7 +24,7 @@
           
 </p>
  
- <h3 align="center">Siga-me nas redes sociais:</h3>
+ <h3 align="center">Follow me on social media:</h3>
 <p align="center">
 	<a href="https://twitter.com/DaLyan22" target="_blank"
 		><img
