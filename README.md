@@ -1,4 +1,4 @@
-<h1  align="center"> Hi, I'm Gabriel </12>
+<h1  color="black" align="center"> Hi, I'm Gabriel </12>
 <h3  align="center">and...Welcome to my git </h3><br>
 
 <p>
