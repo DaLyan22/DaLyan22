@@ -4,7 +4,7 @@
 <p>
 - 🔭 FullStack Web Developer focused on Back-end. <br>
 - 🌱 Fun fact: I forget all the lang commands I learn 1 week later :) <br>
-- 👨‍💻 Studying <strong>NodeJS, TypeScript, PHP e React</strong>.
+- 👨‍💻 Studying <strong>NodeJS, TypeScript, and React Native </strong>.
 </p>
 
 <div align="center">
