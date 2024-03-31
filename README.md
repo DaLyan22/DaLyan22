@@ -1,30 +1,27 @@
 <h1  color="black" align="center"> Hi, I'm Gabriel </12>
-<h3  align="center">and...Welcome to my git </h3><br>
+<h3  align="center">and...Welcome to my github </h3><br>
 
 <p>
 - 🔭 FullStack Web Developer focused on Back-end. <br>
-- 🌱 Fun fact: I forget all the lang commands I learn 1 week later :) <br>
+- 🌱 Fun fact: I already wasted 2 hours coding because of a comma <br>
 - 👨‍💻 Studying <strong>NodeJS, TypeScript, and React Native </strong>.
 </p>
 
 <div align="center">
 <h3 align="center"> Technologies I use most: </h3>
 <p align="center">
-<img widt="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
           
                              
           
 </p>
  
- <h3 align="center">Follow me on social media:</h3>
+ <h3 align="center">My links:</h3>
 <p align="center">
 	<a href="https://twitter.com/DaLyan22" target="_blank"
 		><img
